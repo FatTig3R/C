@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511011549 source:c:\users\byoji\desktop\做游戏，学编程\02_最简单的飞机游戏\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
